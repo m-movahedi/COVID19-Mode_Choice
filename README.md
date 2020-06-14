@@ -1,5 +1,5 @@
 # COVID19 and the Mode Choice
-A Study on the impacts of the COVID-19 outbreak on the transportation mode choice.
+** This is an ongoing research project about the impacts of the COVID-19 outbreak on the transportation mode choice.**
 
 COVID-19 has been designated as a pandemic by the World Health Organization (WHO). The changes that this disease brought to our day to day life were so radical and bold that it made us think about the future of our world. As today many cities across the globe experience quarantine and mobility restrictions. These changes drive many businesses and people out of their comfort zone and allow them to experience new things like internet shopping, teleworking, or e-learning. As a result, many experts suspect whether these changes would reshape the world as we knew it.
 
